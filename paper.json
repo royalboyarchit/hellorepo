@@ -1,0 +1,18 @@
+{
+  "Version": [
+    {
+      "version": "2.4",
+      "error": "01"
+    }
+  ],
+  "Controle": [
+    {
+      "version": "2.4",
+      "error": "01"
+    }
+  ],
+  "forceHardUpdate" : "true",
+  "testUser1" : "test@gmail.com",
+  "testUser2" : "test@gmail.com",
+  "testUser3" : "test@gmail.com"
+}
