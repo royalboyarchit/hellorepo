@@ -12,7 +12,7 @@
     }
   ],
   "forceHardUpdate" : "true",
-  "testUser1" : "test@gmail.com",
+  "testUser1" : "test@email.com",
   "testUser2" : "test@gmail.com",
   "testUser3" : "test@gmail.com"
 }
